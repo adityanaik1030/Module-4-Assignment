@@ -7,11 +7,11 @@
     {
         console.log("Goodbye"+" "+arr[i]);
     }
-    else if(arr[i].charAt(0)=='j')
-    {
-        console.log("Goodbye"+" "+arr[i]);
+    // else if(arr[i].charAt(0)=='j')
+    // {
+    //     console.log("Goodbye"+" "+arr[i]);
 
-    }
+    // }
     else{
        console.log("Hello"+" "+arr[i])
     }
